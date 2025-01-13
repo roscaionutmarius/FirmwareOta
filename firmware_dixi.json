@@ -1,4 +1,4 @@
 {
-	"version": 0.1,
-	"file": "https://firmware_dixi_ota_v0_1.bin"
+	"version": 0.2,
+	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi.bin"
 }
