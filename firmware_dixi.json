@@ -1,6 +1,6 @@
 {
-	"version": 0.39,
-	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.39.bin",
+	"version": 0.40,
+	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.40.bin",
 	"debug": 1,
 	"mac": ["24:ec:4a:1d:4b:61",
 			"24:ec:4a:1d:4b:88"
