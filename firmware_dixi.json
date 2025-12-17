@@ -1,12 +1,13 @@
 {
-	"version": 0.15,
-	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.15_hw_v0.2.bin",
+	"version": 0.67,
+	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.67_hw_v0.2.bin",
 	"debug": 0,
-	"mac": ["24:ec:4a:1d:4b:85",
-			"94:a9:90:34:15:84",
+	"mac": [
+			"94:a9:90:34:15:c1",
+			"94:a9:90:34:15:6d",
 			"94:a9:90:34:16:80",
-			"94:a9:90:34:15:6c",
-			"94:a9:90:34:15:78",
-			"94:a9:90:34:15:c0"
+			"94:a9:90:34:15:79",
+			"94:a9:90:34:15:01",
+			"94:a9:90:34:15:85"
 			]
 }
