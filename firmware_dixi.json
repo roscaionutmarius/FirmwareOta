@@ -2,7 +2,7 @@
 	"version": 0.70,
 	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.70_hw_v0.2.bin",
 	"debug": 0,
-	"comOff": 1,
+	"comOff": 0,
 	"mac": [
 			"94:a9:90:34:15:c1",
 			"94:a9:90:34:15:6d",
