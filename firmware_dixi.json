@@ -2,11 +2,11 @@
 	"version": 0.73,
 	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.73_hw_v0.2.bin",
 	"debug": 0,
-	"comOff": 0,
+	"comOff": 1,
 	"mac": [
 			"94:a9:90:34:15:c1",
-			"94:a9:90:34:15:6c",
-			"94:a9:90:34:16:80",
+			"94:a9:90:34:15:6d",
+			"94:a9:90:34:16:81",
 			"94:a9:90:34:15:79",
 			"94:a9:90:34:15:00",
 			"94:a9:90:34:09:d1"
