@@ -1,6 +1,6 @@
 {
-	"version": 0.72,
-	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.72_hw_v0.2.bin",
+	"version": 0.73,
+	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.73_hw_v0.2.bin",
 	"debug": 0,
 	"comOff": 0,
 	"mac": [
@@ -9,6 +9,6 @@
 			"94:a9:90:34:16:81",
 			"94:a9:90:34:15:79",
 			"94:a9:90:34:15:00",
-			"94:a9:90:34:09:d0"
+			"94:a9:90:34:09:d1"
 			]
 }
