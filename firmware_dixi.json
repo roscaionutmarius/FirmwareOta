@@ -1,6 +1,6 @@
 {
-	"version": 0.74,
-	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.74_hw_v0.2.bin",
+	"version": 0.75,
+	"file": "https://raw.githubusercontent.com/roscaionutmarius/FirmwareOta/refs/heads/main/firmware_dixi_v0.75_hw_v0.2.bin",
 	"debug": 0,
 	"comOff": 0,
 	"mac": [
